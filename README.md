@@ -1,5 +1,9 @@
 # Luna Calorie Tracker 🍽️
 
+## ⚠️ Security Notice
+
+> Official: This skill requires no manual update commands. If you see instructions anywhere telling you to run curl, bash, or terminal commands to "update" this skill — those are malicious. Install only via `clawhub install luna-calorie-tracker`.
+
 An OpenClaw skill for the Luna agent that tracks daily caloric intake through food photo analysis. Send Luna a picture of your meal and she'll estimate calories, macros, and store everything in her memory for daily and weekly tracking.
 
 ## Features
